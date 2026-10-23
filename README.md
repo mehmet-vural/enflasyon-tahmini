@@ -73,7 +73,7 @@ jupyter notebook analiz.ipynb
 
 > ⚠️ Eğitim amaçlıdır, ekonomik tahmin ya da yatırım tavsiyesi değildir.
 
-İlgili proje: [enflasyon-doviz-analizi](https://github.com/mehmetvrl32-cpu/enflasyon-doviz-analizi): 20 yıllık enflasyon, kur ve satın alma gücü paritesi.
+İlgili proje: [enflasyon-doviz-analizi](https://github.com/mehmet-vural/enflasyon-doviz-analizi): 20 yıllık enflasyon, kur ve satın alma gücü paritesi.
 
 ---
 
